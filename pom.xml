@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.2.2</version>
+		<version>3.2.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.karinaerikads</groupId>
 	<artifactId>mscartoes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mscartoes</name>
-	<description>Microsserviço de cartões</description>
+	<description>Microsservico de cartoes</description>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud.version>2023.0.0</spring-cloud.version>
