@@ -17,7 +17,7 @@ public class CartaoService {
 
     @Transactional
     public Cartao save (Cartao cartao){
-        return cartaoRepository.save();
+        return cartaoRepository.save(cartao);
     }
 
     public List<Cartao> getCartoesRendaMenosIgual(Long renda){
