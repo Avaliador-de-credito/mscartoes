@@ -2,7 +2,7 @@ spring:
   application:
     name: mscartoes
   rabbitmq:
-    host: cursomsrabbitmq
+    host: cursoms-rabbitmq
     port: 5672
     username: guest
     password: guest
